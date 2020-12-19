@@ -1,0 +1,12 @@
+D:\Repos\ParkourFPS Dedicated Server\bin\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.exe
+D:\Repos\ParkourFPS Dedicated Server\bin\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.deps.json
+D:\Repos\ParkourFPS Dedicated Server\bin\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.runtimeconfig.json
+D:\Repos\ParkourFPS Dedicated Server\bin\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.runtimeconfig.dev.json
+D:\Repos\ParkourFPS Dedicated Server\bin\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.dll
+D:\Repos\ParkourFPS Dedicated Server\bin\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.pdb
+D:\Repos\ParkourFPS Dedicated Server\obj\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.csprojAssemblyReference.cache
+D:\Repos\ParkourFPS Dedicated Server\obj\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.AssemblyInfoInputs.cache
+D:\Repos\ParkourFPS Dedicated Server\obj\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.AssemblyInfo.cs
+D:\Repos\ParkourFPS Dedicated Server\obj\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.dll
+D:\Repos\ParkourFPS Dedicated Server\obj\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.pdb
+D:\Repos\ParkourFPS Dedicated Server\obj\Debug\netcoreapp3.1\ParkourFPS Dedicated Server.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ParkourFPS Dedicated Server/1.0.0": {
+        "runtime": {
+          "ParkourFPS Dedicated Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParkourFPS Dedicated Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

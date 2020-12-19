@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zwhY+s7bQvE3WBy/tzFHHl5DjYJG68yjZhgWRGnIlASu/SmNWkj5l7Z0L7pd0ocesH1mDQ8EFKKISbCj2A1Dg==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\ParkourFPS_Dedicated_Server\\ParkourFPS_Dedicated_Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darion\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
