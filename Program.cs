@@ -22,6 +22,7 @@ namespace ParkourFPS_Dedicated_Server
         {
             Console.WriteLine($"Main thread started. Running at {Constants.TICKS_PER_SEC} ticks per second.");
             DateTime _nextLoop = DateTime.Now;
+            //var cts = new CancellationTokenSource(30);
 
             while (isRunning)
             {
